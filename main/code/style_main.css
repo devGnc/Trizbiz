@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #2C001E; /* Couleur similaire à ton terminal */
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    color: white;
+    font-size: 40px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between; /* Espacement égal entre les zones */
+    background-color: #3B1C47; /* Un peu plus clair pour le contraste */
+    padding: 10px 0; /* Espacement vertical */
+}
+
+.nav-item {
+    flex: 1; /* Chaque zone prend une part égale de l'espace */
+    text-align: center; /* Centre le bouton dans chaque zone */
+}
+
+.nav-item button {
+    background-color: #5D3A71;
+    color: white;
+    border: none;
+    padding: 10px 0; /* Espacement vertical pour le bouton */
+    font-size: 16px;
+    cursor: pointer;
+    width: 100%; /* Le bouton prend toute la largeur de la zone */
+    transition: background-color 0.3s ease;
+}
+
+.nav-item button:hover {
+    background-color: #7A5A95;
+}
