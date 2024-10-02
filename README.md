@@ -1,10 +1,10 @@
-# Bot Discord Trizbiz 
+# TripleV 
 
 ### Fonctionnalités : 
 - *coming soon...*
 
-### Description du bot : 
-Trizbiz, développé en Python, a pour but de rendre les conversations plus fluides et amusantes avec des fonctionnalités simples. Toujours en phase de test, il est régulièrement amélioré pour ajouter de nouvelles options et mieux répondre aux besoins des utilisateurs.
+### Description du site : 
+"TripleV : Veni, Vidi, Vici" – parce que réussir en prépa, c'est conquérir chaque défi. TripleV est un site web codé en HTML, CSS et JavaScript, conçu pour aider les étudiants en prépa à optimiser leur organisation et leur productivité. Il centralise des outils pratiques pour faciliter la gestion du temps, la révision efficace et la planification des études, en offrant une interface simple et accessible adaptée aux besoins des élèves préparant des concours exigeants.
 
 ### Historique des versions : 
 ##### v 0.0 :
