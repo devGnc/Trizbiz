@@ -1,11 +1,11 @@
 function pomodoro() {
-    alert("Fonction Pomodoro activée !");
+    window.location.href = 'pomodoro.html';  // Redirige vers la page Pomodoro
 }
 
 function todoList() {
-    alert("Ouvre ta TODO List !");
+    window.location.href = 'todolist.html';  // Redirige vers la page TODO List
 }
 
 function notes() {
-    alert("Accède à tes notes !");
+    window.location.href = 'notes.html';  // Redirige vers la page Notes
 }
